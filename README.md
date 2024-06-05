@@ -12,7 +12,7 @@ A simple weather application built using React.js and Material-UI. The applicati
 
 ## Demo
 
-Check out the deployed application on Vercel [here](https://your-vercel-deployment-link).
+Check out the deployed application on Vercel [here](https://weather-forcast-six.vercel.app/).
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Check out the deployed application on Vercel [here](https://your-vercel-deployme
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Abhinavnist/weather-forcast.git
    cd weather-app
    ```
 2. Install dependencies:
